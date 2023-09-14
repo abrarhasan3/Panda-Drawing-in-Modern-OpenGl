@@ -11,6 +11,15 @@ https://apps.automeris.io/wpd/</li>
 <li>Finally, the eyes were drawn with white color over black. </li>
 </ul>
 
+
+## Tutorial for Drawing 
+
+https://youtube.com/playlist?list=PLS6kme4GCf2tOzUhrR_937Pv93oHCXxf0&si=GaItmmo-l2T4gbyd
+
+
+## Final Output
+<img src = "https://github.com/abrarhasan3/Panda-Drawing-in-Modern-OpenGl/blob/main/Screenshot%202023-09-11%20003949.png"/>
+
 ## Authors
 
 - [Abrar Hasan](https://www.github.com/abrarhasan3)
