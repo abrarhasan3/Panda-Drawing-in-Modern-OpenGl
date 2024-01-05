@@ -14,7 +14,7 @@ https://apps.automeris.io/wpd/</li>
 
 ## Tutorial for Drawing 
 
-https://youtube.com/playlist?list=PLS6kme4GCf2tOzUhrR_937Pv93oHCXxf0&si=GaItmmo-l2T4gbyd
+<a href="https://youtube.com/playlist?list=PLS6kme4GCf2tOzUhrR_937Pv93oHCXxf0&si=GaItmmo-l2T4gbyd">Click Here</a>
 
 
 ## Final Output
