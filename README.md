@@ -14,9 +14,7 @@ This project demonstrates the creation of a synthetic image of a panda using Mod
 ## Features
 
 - **Modern OpenGL (3.3):** Utilizes the modern OpenGL framework for efficient rendering.
-- **Shader Programs:** Implements vertex and fragment shaders to achieve realistic lighting and shading effects.
-- **Texture Mapping:** Applies texture mapping to enhance the visual representation of the panda.
-- **User Interaction:** Provides interactive controls to manipulate the view and zoom into the panda image.
+- **Shader Programs:** Implements vertex and fragment shaders to achieve realistic shading effects.
 - **Cross-Platform:** Designed to work seamlessly across different platforms.
 
 ## Requirements
@@ -27,7 +25,9 @@ To run this project, ensure that you have the following dependencies installed:
 - CMake
 - GLFW (OpenGL framework)
 - GLAD (OpenGL loader)
-- [GLM (OpenGL Mathematics)](https://github.com/g-truc/glm)
+- GLM (OpenGL Mathematics)
+
+For installation tutorial : <a href="https://youtu.be/WoTRZ0t1tT4?si=vTMyT-LCjfcB_mOr">Click Here</a> 
 
 ## Usage
 
