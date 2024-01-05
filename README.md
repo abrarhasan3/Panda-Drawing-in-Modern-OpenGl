@@ -1,6 +1,6 @@
 # Panda Synthetic Image in Modern OpenGL (3.3)
 
-This project demonstrates the creation of a synthetic image of a panda using Modern OpenGL (3.3). The implementation showcases the use of shaders, vertex buffers, and textures to render a visually appealing representation of a panda.
+This project demonstrates the creation of a synthetic image of a panda using Modern OpenGL (3.3). The implementation showcases the use of taking point from image and to connect them to render a visually appealing representation of a panda.
 
 ## Table of Contents
 
