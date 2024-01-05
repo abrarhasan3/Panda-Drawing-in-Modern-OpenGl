@@ -1,7 +1,66 @@
+# Panda Synthetic Image in Modern OpenGL (3.3)
+
+This project demonstrates the creation of a synthetic image of a panda using Modern OpenGL (3.3). The implementation showcases the use of shaders, vertex buffers, and textures to render a visually appealing representation of a panda.
+
+## Table of Contents
+
+- [Features](#features)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- **Modern OpenGL (3.3):** Utilizes the modern OpenGL framework for efficient rendering.
+- **Shader Programs:** Implements vertex and fragment shaders to achieve realistic lighting and shading effects.
+- **Texture Mapping:** Applies texture mapping to enhance the visual representation of the panda.
+- **User Interaction:** Provides interactive controls to manipulate the view and zoom into the panda image.
+- **Cross-Platform:** Designed to work seamlessly across different platforms.
+
+## Requirements
+
+To run this project, ensure that you have the following dependencies installed:
+
+- OpenGL 3.3 or later
+- CMake
+- GLFW (OpenGL framework)
+- GLAD (OpenGL loader)
+- [GLM (OpenGL Mathematics)](https://github.com/g-truc/glm)
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/panda-synthetic-image.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Drawing an Animal in OpenGl 3.3
 
-The project was to draw a sinthetic image of an Animal. So I choosed panda. 
+This project demonstrates the creation of a synthetic image of a panda using Modern OpenGL (3.3). The implementation showcases the use of shaders, vertex buffers to render a visually appealing representation of a Panda.
 <ul>
 <li>At first 957 points are taken to draw the outlines. The dataset would be found in Default Dataset 11.csv file. 
 To extract the point following website is used:
